@@ -1,4 +1,4 @@
-﻿
+﻿// программа которая находит сумму элементов, стоящих на нечётных позициях
 int[] array = new int[10];
 CreateArray(array);
 PrintArray(array);
